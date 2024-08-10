@@ -1,3 +1,3 @@
-# character base
+# Wiki
 
 Start typing here...

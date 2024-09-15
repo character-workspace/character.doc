@@ -1,0 +1,1 @@
+link: https://character-workspace.github.io/character.doc/starter.html

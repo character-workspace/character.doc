@@ -1,1 +1,1 @@
-link: https://character-workspace.github.io
+link: https://character-workspace.github.io/character.doc
